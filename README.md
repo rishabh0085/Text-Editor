@@ -4,7 +4,7 @@
 - Text editors are typically lightweight and designed for simplicity. They provide basic text manipulation features like typing, deleting, copying, and pasting text. 
 Some common characteristics of text editors include:
 
-1.Text Input: They allow you to type and enter plain text.
+1.Text Input: They allow you to type and enter plain text. \n
 2.Text Editing: You can edit, cut, copy, paste, and delete text.
 3.Save and Open: You can save your text documents to a file and open existing text files.
 4.Open new text window or close current text window.
