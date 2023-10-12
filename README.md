@@ -1,6 +1,4 @@
-
 # Text-Editor
-
 > What is Text-Editor?
 - A text editor is a computer program or software application that allows you to create, edit, and manipulate plain text files. These files can contain a wide range of information, including code, scripts, configuration files, notes, prose, and more. Text editors are an essential tool for anyone who works with text-based content on a computer.
 
