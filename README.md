@@ -21,3 +21,6 @@ Some common characteristics of text editors include:
 
 3.Nano: A command-line text editor that's popular on Unix-based systems.
 
+- Tech Stack Used:
+JavaSwing, Java, OOPS Concept.
+
