@@ -23,5 +23,16 @@ Some common characteristics of text editors include:
 
 >Tech Stack Used:
 
-JavaSwing, Java, OOPS Concept.
+-JavaSwing
+
+-Java
+
+-OOPS Concept.
+
+#Screen Shots of Text-Editor :
+
+![Screenshot (17)](https://github.com/rishabh0085/Text-Editor/assets/52191143/d5d35583-9e02-4cf2-baca-51250187e8d4)
+![Screenshot (18)](https://github.com/rishabh0085/Text-Editor/assets/52191143/1259f7b1-3e7c-4967-badc-75c09814739b)
+![Screenshot (19)](https://github.com/rishabh0085/Text-Editor/assets/52191143/07799b39-d6cc-4ebe-9a38-2033ff3d30a4)
+
 
